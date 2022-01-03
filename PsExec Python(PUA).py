@@ -1,18 +1,3 @@
-#!/usr/bin/python
-# Copyright (c) 2003-2016 CORE Security Technologies
-#
-# This software is provided under under a slightly modified version
-# of the Apache Software License. See the accompanying LICENSE file
-# for more information.
-#
-# PSEXEC like functionality example using RemComSvc (https://github.com/kavika13/RemCom)
-#
-# Author:
-#  beto (@agsolino)
-#
-# Reference for:
-#  DCE/RPC and SMB.
-
 import sys
 import os
 import cmd
